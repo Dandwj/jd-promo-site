@@ -1,0 +1,25 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'zh-cn'
+title = '我的产品推广站'
+theme = 'PaperMod'
+pagination.pagerSize = 10
+enableRobotsTXT = true
+
+[params]
+  homeInfoParams = { Title = "欢迎来到香囊世界", Content = "精选中药香囊，助眠祛湿，呵护健康" }
+  ShowReadingTime = true
+  ShowShareButtons = true
+  defaultTheme = "auto"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "产品推荐"
+  url = "/products/"
+  weight = 1
+
+[[menu.main]]
+  name = "文章"
+  url = "/posts/"
+  weight = 2
