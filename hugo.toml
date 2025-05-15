@@ -1,12 +1,12 @@
 baseURL = 'https://www.meowlang.cn/'
 languageCode = 'zh-cn'
-title = '我的产品推广站'
+title = '我的好物推广小站'
 theme = 'PaperMod'
 pagination.pagerSize = 10
 enableRobotsTXT = true
 
 [params]
-  homeInfoParams = { Title = "欢迎来到香囊世界", Content = "精选中药香囊，助眠祛湿，呵护健康" }
+  homeInfoParams = { Title = "欢迎来到我的推广世界", Content = "精选好物，推荐给您！" }
   ShowReadingTime = true
   ShowShareButtons = true
   defaultTheme = "auto"
