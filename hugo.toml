@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://jd-promo-site-8nx03nm47-meowlangs-projects.vercel.app/'
 languageCode = 'zh-cn'
 title = '我的产品推广站'
 theme = 'PaperMod'
