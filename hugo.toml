@@ -1,4 +1,4 @@
-baseURL = 'https://jd-promo-site.vercel.app/'
+baseURL = 'https://www.meowlang.cn/'
 languageCode = 'zh-cn'
 title = '我的产品推广站'
 theme = 'PaperMod'
