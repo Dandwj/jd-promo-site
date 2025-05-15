@@ -1,0 +1,37 @@
+{{ if .Params.product }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{ .Params.product.name }}",
+  "image": "{{ .Params.product.image }}",
+  "description": "{{ .Params.product.description }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Params.product.brand }}"
+  },
+  "sku": "{{ .Params.product.sku }}",
+  "offers": {
+    "@type": "Offer",
+    "url": "{{ .Params.product.url }}",
+    "priceCurrency": "CNY",
+    "price": "{{ .Params.product.price }}",
+    "availability": "https://schema.org/InStock"
+  },
+  "review": {
+    "@type": "Review",
+    "author": {
+      "@type": "Person",
+      "name": "{{ .Params.product.review_author }}"
+    },
+    "datePublished": "{{ .Params.product.review_date }}",
+    "reviewBody": "{{ .Params.product.review_body }}",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ .Params.product.review_rating }}",
+      "bestRating": "5"
+    }
+  }
+}
+</script>
+{{ end }}

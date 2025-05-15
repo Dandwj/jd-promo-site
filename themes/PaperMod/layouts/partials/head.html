@@ -105,6 +105,7 @@
 {{- range .AllTranslations -}}
 <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
 {{ end -}}
+{{ partial "structured-data/product-schema.html" . }}
 
 <noscript>
     <style>
