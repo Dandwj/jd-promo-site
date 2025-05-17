@@ -1,21 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的产品推广站</title>
+    <title>我的好物推广小站</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on 我的产品推广站</description>
+    <description>Recent content on 我的好物推广小站</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 00:50:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>麻辣王子辣条体验：地道湖南风味，辣得过瘾</title>
+      <link>http://localhost:1313/posts/malawangzi-latiao-review/</link>
+      <pubDate>Sun, 18 May 2025 00:50:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/malawangzi-latiao-review/</guid>
+      <description>亲测麻辣王子辣条，分享其地道湖南风味和辣味体验，适合喜欢麻辣口感的零食爱好者。</description>
+    </item>
+    <item>
+      <title>麻辣王子辣条体验：地道湖南风味，辣得过瘾</title>
+      <link>http://localhost:1313/products/malawangzi-latiao-review/</link>
+      <pubDate>Sun, 18 May 2025 00:50:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/malawangzi-latiao-review/</guid>
+      <description>亲测麻辣王子辣条，分享其地道湖南风味和辣味体验，适合喜欢麻辣口感的零食爱好者。</description>
+    </item>
+    <item>
+      <title>京东京造7A级抗菌浴巾使用体验：柔软速干，品质生活的选择</title>
+      <link>http://localhost:1313/posts/jingzao-bath-towel-review/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/jingzao-bath-towel-review/</guid>
+      <description>亲测京东京造7A级抗菌浴巾，分享其柔软、速干、抗菌等特点，助你提升居家生活品质。</description>
+    </item>
+    <item>
+      <title>京东京造7A级抗菌浴巾使用体验：柔软速干，品质生活的选择</title>
+      <link>http://localhost:1313/products/jingzao-bath-towel-review/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/jingzao-bath-towel-review/</guid>
+      <description>亲测京东京造7A级抗菌浴巾，分享其柔软、速干、抗菌等特点，助你提升居家生活品质。</description>
+    </item>
+    <item>
+      <title>康王酮康唑洗剂使用体验：控油止痒，头皮健康新选择</title>
+      <link>http://localhost:1313/posts/%E5%BA%B7%E7%8E%8B%E9%85%AE%E5%BA%B7%E5%94%91%E6%B4%97%E5%89%82/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%BA%B7%E7%8E%8B%E9%85%AE%E5%BA%B7%E5%94%91%E6%B4%97%E5%89%82/</guid>
+      <description>亲测康王酮康唑洗剂，分享其在控油止痒、改善头皮健康方面的实际效果，助你解决头皮问题。</description>
+    </item>
+    <item>
+      <title>康王酮康唑洗剂使用体验：控油止痒，头皮健康新选择</title>
+      <link>http://localhost:1313/products/%E5%BA%B7%E7%8E%8B%E9%85%AE%E5%BA%B7%E5%94%91%E6%B4%97%E5%89%82/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E5%BA%B7%E7%8E%8B%E9%85%AE%E5%BA%B7%E5%94%91%E6%B4%97%E5%89%82/</guid>
+      <description>亲测康王酮康唑洗剂，分享其在控油止痒、改善头皮健康方面的实际效果，助你解决头皮问题。</description>
+    </item>
+    <item>
+      <title>改善睡眠新选择：京东京造褪黑素B6片实测体验</title>
+      <link>http://localhost:1313/posts/%E4%BA%AC%E4%B8%9C%E4%BA%AC%E9%80%A0%E8%A4%AA%E9%BB%91%E7%B4%A0/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E4%BA%AC%E4%B8%9C%E4%BA%AC%E9%80%A0%E8%A4%AA%E9%BB%91%E7%B4%A0/</guid>
+      <description>亲测京东京造褪黑素维生素B6片，分享其对改善睡眠质量的实际效果，助你解决入睡困难问题。</description>
+    </item>
+    <item>
+      <title>改善睡眠新选择：京东京造褪黑素B6片实测体验</title>
+      <link>http://localhost:1313/products/%E4%BA%AC%E4%B8%9C%E4%BA%AC%E9%80%A0%E8%A4%AA%E9%BB%91%E7%B4%A0/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E4%BA%AC%E4%B8%9C%E4%BA%AC%E9%80%A0%E8%A4%AA%E9%BB%91%E7%B4%A0/</guid>
+      <description>亲测京东京造褪黑素维生素B6片，分享其对改善睡眠质量的实际效果，助你解决入睡困难问题。</description>
+    </item>
+    <item>
+      <title>欧乐B iO3 Plus 电动牙刷使用体验：深度清洁，护龈呵护</title>
+      <link>http://localhost:1313/posts/%E6%AC%A7%E4%B9%90b-io3-plus-%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E6%AC%A7%E4%B9%90b-io3-plus-%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7/</guid>
+      <description>亲测欧乐B iO3 Plus 电动牙刷，分享其深度清洁效果和护龈功能，助你提升口腔健康。</description>
+    </item>
+    <item>
+      <title>欧乐B iO3 Plus 电动牙刷使用体验：深度清洁，护龈呵护</title>
+      <link>http://localhost:1313/products/%E6%AC%A7%E4%B9%90b-io3-plus-%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E6%AC%A7%E4%B9%90b-io3-plus-%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7/</guid>
+      <description>亲测欧乐B iO3 Plus 电动牙刷，分享其深度清洁效果和护龈功能，助你提升口腔健康。</description>
+    </item>
+    <item>
+      <title>浴室收纳新体验：太力免打孔拖鞋架实测分享</title>
+      <link>http://localhost:1313/posts/%E5%A4%AA%E5%8A%9B%E6%B5%B4%E5%AE%A4%E6%8B%96%E9%9E%8B%E6%9E%B6/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%A4%AA%E5%8A%9B%E6%B5%B4%E5%AE%A4%E6%8B%96%E9%9E%8B%E6%9E%B6/</guid>
+      <description>亲测太力免打孔可伸缩吸盘拖鞋架，分享其安装便捷性、收纳效果和实际使用体验，助你提升浴室整洁度。</description>
+    </item>
+    <item>
+      <title>浴室收纳新体验：太力免打孔拖鞋架实测分享</title>
+      <link>http://localhost:1313/products/%E5%A4%AA%E5%8A%9B%E6%B5%B4%E5%AE%A4%E6%8B%96%E9%9E%8B%E6%9E%B6/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E5%A4%AA%E5%8A%9B%E6%B5%B4%E5%AE%A4%E6%8B%96%E9%9E%8B%E6%9E%B6/</guid>
+      <description>亲测太力免打孔可伸缩吸盘拖鞋架，分享其安装便捷性、收纳效果和实际使用体验，助你提升浴室整洁度。</description>
+    </item>
+    <item>
+      <title>鲜京采厄瓜多尔白虾实测：家庭海鲜盛宴的高性价比之选</title>
+      <link>http://localhost:1313/posts/%E9%B2%9C%E4%BA%AC%E9%87%87%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%99%BD%E8%99%BE/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E9%B2%9C%E4%BA%AC%E9%87%87%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%99%BD%E8%99%BE/</guid>
+      <description>亲测鲜京采厄瓜多尔白虾，分享其口感、烹饪体验和性价比，助你轻松打造家庭海鲜盛宴。</description>
+    </item>
+    <item>
+      <title>鲜京采厄瓜多尔白虾实测：家庭海鲜盛宴的高性价比之选</title>
+      <link>http://localhost:1313/products/%E9%B2%9C%E4%BA%AC%E9%87%87%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%99%BD%E8%99%BE/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E9%B2%9C%E4%BA%AC%E9%87%87%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E7%99%BD%E8%99%BE/</guid>
+      <description>亲测鲜京采厄瓜多尔白虾，分享其口感、烹饪体验和性价比，助你轻松打造家庭海鲜盛宴。</description>
+    </item>
+    <item>
       <title>亲测有效的本草掌柜中药香包：助眠、提神、净化空气一包搞定</title>
-      <link>http://localhost:1313/posts/%E6%94%B9%E5%96%84%E7%9D%A1%E7%9C%A0%E7%9A%84%E9%A6%99%E5%9B%8A%E6%8E%A8%E8%8D%90/</link>
+      <link>http://localhost:1313/posts/%E6%9C%AC%E8%8D%89%E6%8E%8C%E6%9F%9C%E5%8A%A9%E7%9C%A0%E5%AE%89%E7%A5%9E%E9%A6%99%E5%9B%8A/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/%E6%94%B9%E5%96%84%E7%9D%A1%E7%9C%A0%E7%9A%84%E9%A6%99%E5%9B%8A%E6%8E%A8%E8%8D%90/</guid>
+      <guid>http://localhost:1313/posts/%E6%9C%AC%E8%8D%89%E6%8E%8C%E6%9F%9C%E5%8A%A9%E7%9C%A0%E5%AE%89%E7%A5%9E%E9%A6%99%E5%9B%8A/</guid>
       <description>&lt;p&gt;最近工作压力大、睡眠质量不好，尝试了各种助眠方式都不太理想。直到朋友推荐我试试这款【本草掌柜中药功能型香包】，才发现它确实有点东西。&lt;/p&gt;
 &lt;h2 id=&#34;-我的使用体验真正的香伴入眠&#34;&gt;🧘‍♀️ 我的使用体验：真正的“香”伴入眠&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;本草掌柜香包&#34; loading=&#34;lazy&#34; src=&#34;https://img10.360buyimg.com/n5/s720x720_jfs/t1/250217/11/36906/478245/68203346F572de0fa/8edf13de1423479b.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我选的是【助眠安神香包卧室款】，收到时包装是麻布袋质感，淡雅中药香扑面而来，一点也不刺鼻。放在枕边第一晚，香气非常柔和，不像精油那种人工味，闻着就安心。那晚我大概 15 分钟就入睡了，是真的！&lt;/p&gt;
 &lt;p&gt;连续用了几天后，最大的感受是&lt;strong&gt;不知不觉就睡着了&lt;/strong&gt;，而且醒来不会头晕脑胀。&lt;/p&gt;
 &lt;h2 id=&#34;-白天提神也有妙用&#34;&gt;☕ 白天提神也有妙用&lt;/h2&gt;
@@ -38,12 +135,11 @@
     </item>
     <item>
       <title>亲测有效的本草掌柜中药香包：助眠、提神、净化空气一包搞定</title>
-      <link>http://localhost:1313/products/%E5%A4%A9%E7%84%B6%E8%89%BE%E8%8D%89%E9%A6%99%E5%9B%8A/</link>
+      <link>http://localhost:1313/products/%E6%9C%AC%E8%8D%89%E6%8E%8C%E6%9F%9C%E5%8A%A9%E7%9C%A0%E5%AE%89%E7%A5%9E%E9%A6%99%E5%9B%8A/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/%E5%A4%A9%E7%84%B6%E8%89%BE%E8%8D%89%E9%A6%99%E5%9B%8A/</guid>
+      <guid>http://localhost:1313/products/%E6%9C%AC%E8%8D%89%E6%8E%8C%E6%9F%9C%E5%8A%A9%E7%9C%A0%E5%AE%89%E7%A5%9E%E9%A6%99%E5%9B%8A/</guid>
       <description>&lt;p&gt;最近工作压力大、睡眠质量不好，尝试了各种助眠方式都不太理想。直到朋友推荐我试试这款【本草掌柜中药功能型香包】，才发现它确实有点东西。&lt;/p&gt;
 &lt;h2 id=&#34;-我的使用体验真正的香伴入眠&#34;&gt;🧘‍♀️ 我的使用体验：真正的“香”伴入眠&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;本草掌柜香包&#34; loading=&#34;lazy&#34; src=&#34;https://img10.360buyimg.com/n5/s720x720_jfs/t1/250217/11/36906/478245/68203346F572de0fa/8edf13de1423479b.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;我选的是【助眠安神香包卧室款】，收到时包装是麻布袋质感，淡雅中药香扑面而来，一点也不刺鼻。放在枕边第一晚，香气非常柔和，不像精油那种人工味，闻着就安心。那晚我大概 15 分钟就入睡了，是真的！&lt;/p&gt;
 &lt;p&gt;连续用了几天后，最大的感受是&lt;strong&gt;不知不觉就睡着了&lt;/strong&gt;，而且醒来不会头晕脑胀。&lt;/p&gt;
 &lt;h2 id=&#34;-白天提神也有妙用&#34;&gt;☕ 白天提神也有妙用&lt;/h2&gt;

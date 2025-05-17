@@ -1,11 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 我的产品推广站</title>
+    <title>Categories on 我的好物推广小站</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on 我的产品推广站</description>
+    <description>Recent content in Categories on 我的好物推广小站</description>
     <generator>Hugo -- 0.147.3</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Sun, 18 May 2025 00:50:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美食测评</title>
+      <link>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F%E6%B5%8B%E8%AF%84/</link>
+      <pubDate>Sun, 18 May 2025 00:50:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F%E6%B5%8B%E8%AF%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>零食推荐</title>
+      <link>http://localhost:1313/categories/%E9%9B%B6%E9%A3%9F%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Sun, 18 May 2025 00:50:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E9%9B%B6%E9%A3%9F%E6%8E%A8%E8%8D%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>产品测评</title>
+      <link>http://localhost:1313/categories/%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>健康生活</title>
+      <link>http://localhost:1313/categories/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>家居收纳</title>
+      <link>http://localhost:1313/categories/%E5%AE%B6%E5%B1%85%E6%94%B6%E7%BA%B3/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E5%AE%B6%E5%B1%85%E6%94%B6%E7%BA%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>居家生活</title>
+      <link>http://localhost:1313/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>美食推荐</title>
+      <link>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90/</link>
+      <pubDate>Sat, 17 May 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BE%8E%E9%A3%9F%E6%8E%A8%E8%8D%90/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>挂件</title>
+      <link>http://localhost:1313/categories/%E6%8C%82%E4%BB%B6/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E6%8C%82%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活日用</title>
+      <link>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E7%94%A8/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E7%94%A8/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
